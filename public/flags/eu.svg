@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" role="img" aria-labelledby="title">
+  <title>European Union flag placeholder</title>
+  <rect width="120" height="80" fill="#003399"/>
+  <g fill="#FFCC00">
+    <circle cx="60" cy="40" r="20" fill="none" stroke="#FFCC00" stroke-width="2" stroke-dasharray="1 11" stroke-linecap="round"/>
+  </g>
+</svg>

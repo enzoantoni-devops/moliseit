@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" role="img" aria-labelledby="title">
+  <title>United States flag placeholder</title>
+  <rect width="120" height="80" fill="#B22234"/>
+  <rect width="120" height="16" y="8" fill="#FFFFFF"/>
+  <rect width="120" height="16" y="24" fill="#FFFFFF"/>
+  <rect width="120" height="16" y="40" fill="#FFFFFF"/>
+  <rect width="120" height="16" y="56" fill="#FFFFFF"/>
+  <rect width="48" height="40" fill="#3C3B6E"/>
+</svg>

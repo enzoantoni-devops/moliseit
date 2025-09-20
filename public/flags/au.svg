@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" role="img" aria-labelledby="title">
+  <title>Australia flag placeholder</title>
+  <rect width="120" height="80" fill="#00008B"/>
+  <g fill="#FFFFFF">
+    <circle cx="90" cy="20" r="4"/>
+    <circle cx="95" cy="40" r="4"/>
+    <circle cx="80" cy="35" r="4"/>
+    <circle cx="95" cy="60" r="4"/>
+    <circle cx="75" cy="60" r="4"/>
+  </g>
+  <rect x="0" y="0" width="48" height="32" fill="#012169"/>
+  <path d="M0 0 L48 32 M48 0 L0 32" stroke="#FFFFFF" stroke-width="6"/>
+  <path d="M0 0 L48 32 M48 0 L0 32" stroke="#E4002B" stroke-width="3"/>
+  <rect x="18" width="12" height="32" fill="#FFFFFF"/>
+  <rect y="10" width="48" height="12" fill="#FFFFFF"/>
+  <rect x="20" width="8" height="32" fill="#E4002B"/>
+  <rect y="12" width="48" height="8" fill="#E4002B"/>
+</svg>

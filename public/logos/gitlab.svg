@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title">
+  <title>GitLab logo placeholder</title>
+  <rect width="120" height="120" rx="16" fill="#FC6D26"/>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">GitLab</text>
+</svg>
