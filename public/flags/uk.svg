@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" role="img" aria-labelledby="title">
+  <title>United Kingdom flag placeholder</title>
+  <rect width="120" height="80" fill="#012169"/>
+  <path d="M0 0 L120 80 M120 0 L0 80" stroke="#FFFFFF" stroke-width="12"/>
+  <path d="M0 0 L120 80 M120 0 L0 80" stroke="#C8102E" stroke-width="6"/>
+  <rect x="48" width="24" height="80" fill="#FFFFFF"/>
+  <rect y="28" width="120" height="24" fill="#FFFFFF"/>
+  <rect x="52" width="16" height="80" fill="#C8102E"/>
+  <rect y="32" width="120" height="16" fill="#C8102E"/>
+</svg>

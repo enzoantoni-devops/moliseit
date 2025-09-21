@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" role="img" aria-labelledby="title">
+  <title>Canada flag placeholder</title>
+  <rect width="120" height="80" fill="#FFFFFF"/>
+  <rect width="24" height="80" x="0" fill="#D80621"/>
+  <rect width="24" height="80" x="96" fill="#D80621"/>
+  <path d="M60 26l6 10h10l-8 8 3 12-11-6-11 6 3-12-8-8h10z" fill="#D80621"/>
+</svg>
